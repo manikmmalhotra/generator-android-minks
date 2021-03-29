@@ -1,0 +1,33 @@
+{
+  "name": "generator-android-minks",
+  "version": "0.0.1",
+  "description": "generator for an android mvvm and rxFirebase project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manikmmalhotra/generator-android-minks.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "android",
+    "mvvm",
+    "generator"
+  ],
+  "author": "Manik Malhotra <manikmalhotra2113@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manikmmalhotra/generator-android-minks/issues"
+  },
+  "homepage": "https://github.com/manikmmalhotra/generator-android-minks#readme",
+  "dependencies": {
+    "decamelize": "^5.0.0",
+    "uppercamelcase": "^3.0.0",
+    "yeoman-generator": "^4.0.1"
+  },
+  "files": [
+    "app"
+  ]
+}
