@@ -45,7 +45,7 @@ yo android-minks
 
 ![image](https://github.com/manikmmalhotra/generator-android-minks/blob/main/android4.jpg?raw=true)
 
-> last Step download the google-services.json file and paste under app/src/google-services.json and you're Project is now connected With Firebase.
+> last Step download the google-services.json file and paste under project level folder app/google-services.json and you're Project is now connected With Firebase.
 
 ![image](https://github.com/manikmmalhotra/generator-android-minks/blob/main/android5.jpg?raw=true)
 
