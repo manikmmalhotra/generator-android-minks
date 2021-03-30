@@ -33,11 +33,21 @@ yo android-minks
 
 > After installation open the project on Android Studio (it'll take couple of mins to build the gradle files)
 
+![image](https://github.com/manikmmalhotra/generator-android-minks/blob/main/android1.jpg?raw=true)
+
 > Open your Browser and make an Android Project on Firebase
+
+![image](https://github.com/manikmmalhotra/generator-android-minks/blob/main/android12.jpg?raw=true)
+
+![image](https://github.com/manikmmalhotra/generator-android-minks/blob/main/android3.jpg?raw=true)
 
 > now let's Connect To Android Project first we need to give the packege name same as you give in terminal
 
+![image](https://github.com/manikmmalhotra/generator-android-minks/blob/main/android4.jpg?raw=true)
+
 > last Step download the google-services.json file and paste under app/src/google-services.json and you're Project is now connected With Firebase.
+
+![image](https://github.com/manikmmalhotra/generator-android-minks/blob/main/android5.jpg?raw=true)
 
 ## 2. Base Architecture
 
