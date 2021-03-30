@@ -37,7 +37,7 @@ yo android-minks
 
 > Open your Browser and make an Android Project on Firebase
 
-![image](https://github.com/manikmmalhotra/generator-android-minks/blob/main/android12.jpg?raw=true)
+![image](https://github.com/manikmmalhotra/generator-android-minks/blob/main/android2.jpg?raw=true)
 
 ![image](https://github.com/manikmmalhotra/generator-android-minks/blob/main/android3.jpg?raw=true)
 
