@@ -1,6 +1,6 @@
 {
   "name": "generator-android-minks",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "generator for an android mvvm and rxFirebase project",
   "main": "index.js",
   "scripts": {
